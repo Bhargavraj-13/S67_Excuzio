@@ -4,7 +4,7 @@
 ---
 
 **Project Title:**  
-"List of Most Creative Excuses for Missing Deadlines"
+"Excuzio"
 
 **Project Overview:**  
 This project provides users with a platform to log in and view or contribute a collection of the most creative excuses people have used for missing deadlines. Each user gets a personalized list of excuses, with options to add, edit, or delete entries. The goal is to create a lighthearted and engaging application while demonstrating technical proficiency across the full stack.
